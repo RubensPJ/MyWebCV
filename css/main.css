@@ -1,6 +1,9 @@
 /* Buttons */
 /* Inputs */
 /* Timeline custom component */
+*, ::after, ::before {
+    z-index: 2;
+}
 .timeline {
   border-left: 2px solid #E6E9ED;
   padding: 1rem 0; }
