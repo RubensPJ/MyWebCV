@@ -35,6 +35,7 @@
 *,
 *::before,
 *::after {
+  z-index: 2;
   box-sizing: border-box; }
 
 @media (prefers-reduced-motion: no-preference) {
